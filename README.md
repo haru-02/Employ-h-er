@@ -62,8 +62,8 @@ We were highly moved, with the idea of introducing a platform where more of the 
 1.Global Expansion.
 <br>2.Feature Enhancements.
 <br>3.Future prospects
-<br>4.Therapy sessions from professional therapists.
-<br>5.Adding free courses and resources available on internet.
+<br>  3.1.Therapy sessions from professional therapists.
+<br>  3.2.Adding free courses and resources available on internet.
 
 ## Team
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="800" height="250" >
