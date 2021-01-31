@@ -25,8 +25,8 @@ Employ(H)er, not just an app telling you what, how & when to do things. Instead,
 
 ## Built With
 Flutter using Dart Programming language, Figma for Mobile App design, Illustrator
-<br> <img src="https://github.com/prachi237/StarHacks/blob/main/Screenshot%20(2).png" width="300" height="300" >
-<img src= "https://github.com/prachi237/StarHacks/blob/main/Screenshot%20(5).png" width="300" height="300" >
+<br> <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/sample2_hackviolet.png" width="300" height="300" >
+<img src= "https://github.com/haru-02/Employ-h-er/blob/main/images/sample_hackviolet.png" width="300" height="300" >
 
 ## Learning Achievements
 
