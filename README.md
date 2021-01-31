@@ -15,8 +15,8 @@ Which definitely, degraded the quality of their lives in every forms. I myself h
 <br><img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(37).png" width="200" height="400" >
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(38).png" width="200" height="400" >
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(39).png" width="200" height="400" >
-<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="200" height="400" >
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(41).png" width="200" height="400" >
+<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(42).png" width="200" height="400" >
 
 # What it does?
 
