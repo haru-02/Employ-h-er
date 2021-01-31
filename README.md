@@ -39,7 +39,8 @@ Flutter using Dart Programming language, Figma for Mobile App design, Illustrato
 
 ## Learning Achievements
 
-We learned better tactics of collaboration and market reveniew model. We also learned a lot of facts about women empowerment and various fields that we were unaware of. We learned about the problems women face with their career, workplce and as an employee in an organization  and what solutions we can come up with.
+In all this process, we exceptionally learned about the teamwork skills and the coordination required, in order to complete a task. In the procedure, we learned about App development/figma  and it's immense usability everywhere. Later, to agree over a alike plan in the heap of baffled ideas of everyone.
+And lastly to keep calm even at times when it felt the most coerce of correct ideas and deadlines.We learned better tactics of collaboration and market reveniew model. We also learned a lot of facts about women empowerment and various fields that we were unaware of. We learned about the problems women face with their career, workplce and as an employee in an organization  and what solutions we can come up with.
 
 ## Challenges
 
