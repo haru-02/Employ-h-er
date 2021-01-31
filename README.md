@@ -32,4 +32,4 @@ Being in different time zones was troublesome due to being 12 hours apart. We al
 
 
 ## Team
-<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).pngwidth" width="800" height="400" >
+<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="800" height="200" >
