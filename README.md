@@ -32,6 +32,4 @@ Being in different time zones was troublesome due to being 12 hours apart. We al
 
 
 ## Team
-<br> 1. Prachi Nandi- INDIA
-<br> 2. Rahul Balaji-INDIA
-<br> 3. Hemanth Bajaj-INDIA
+<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).pngwidth" width="800" height="400" >
