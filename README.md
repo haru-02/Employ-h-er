@@ -23,6 +23,11 @@ Here, We give a platform to the womens who have a fundamental knowledge in their
  ## Elevator Pitch
 Employ(H)er, not just an app telling you what, how & when to do things. Instead, choose what you want to do, use your education/ degree to become self reliant and independent. Serve the society. Give your contribution towards women empowerment.
 
+## Built With
+Flutter using Dart Programming language, Figma for Mobile App design, Illustrator
+<br> <img src="https://github.com/prachi237/StarHacks/blob/main/Screenshot%20(2).png" width="300" height="300" >
+<img src= "https://github.com/prachi237/StarHacks/blob/main/Screenshot%20(5).png" width="300" height="300" >
+
 ## Learning Achievements
 
 We learned better tactics of collaboration and market reveniew model. We also learned a lot of facts about women empowerment and various fields that we were unaware of. We learned about the problems women face with their career, workplce and as an employee in an organization  and what solutions we can come up with.
@@ -32,4 +37,4 @@ Being in different time zones was troublesome due to being 12 hours apart. We al
 
 
 ## Team
-<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="800" height="200" >
+<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="800" height="250" >
