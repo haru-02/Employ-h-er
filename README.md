@@ -1,7 +1,7 @@
 # Aimed for- Hack-Violet
 For the Hack-Violet Hackathon - 
 
-# Project Title:
+# Project Title: Employ(H)er-"women determined to rise"
 
 <p align="center">
 <img src="https://github.com/prachi237/Employ-h-er/blob/main/images/Screenshot%20(35).png" width="600" height="400" >
@@ -11,6 +11,11 @@ For the Hack-Violet Hackathon -
 
 Amidst this terrific timespan, we tend to have seen every worst scenarios of life, we could have possibly ever imagined. In this outbreak of corona virus many such incidences have taken place where many people have lost their jobs, place, and the basic sources of sustainability.
 Which definitely, degraded the quality of their lives in every forms. I myself have witnessed this situation in my neighborhood. My neighbour was a single parent, after her marriage she had completely engrossed herself in the household so after when her husband died, she decided to independently raise her both the kids. For that she worked at various places to fulfill the pressing needs of her family and somehow managed. But after when this outbreak struck, She lost all of her jobs and the condition went too distressing everyday. After this scenario, I felt if something amidst this could help her. So We came up with a idea which shall eventually encourage and help women to work independently and help earn them a living and flourish in life on her own terms.
+## The Problem
+'Research shows that even Women when employed, show progress in career that is extremely slow, and at most times, at a state of permanent stasis.’
+
+## Our App & Solution
+“In today's world, employment is the key to an individual to stand on their own legs.” 
 
 <br><img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(37).png" width="200" height="400" >
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(38).png" width="200" height="400" >
