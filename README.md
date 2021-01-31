@@ -17,7 +17,7 @@ Which definitely, degraded the quality of their lives in every forms. I myself h
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(39).png" width="200" height="400" >
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(41).png" width="200" height="400" >
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(42).png" width="200" height="400" >
-
+<img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(43).png" width="200" height="400" >
 # What it does?
 
 Here, We give a platform to the womens who have a fundamental knowledge in their respective domains and it's utilisation. For the users, who have degrees strolling with dust into their cupboards with none recognition of their skills, we here, have got you covered where your skills comes into play with the right value of it which follows. Where the general statics, shows that the women are tend to be paid less irrespective of the same hardwork and expertise. Here we help you freelance and let you demand the right value for your work without of much hassle. We here, would be providing workshops for users, who have zero idea about the career opportunities which they otherwise could have explored, empowering them to become independent and to proceed in accordance to their own terms.
