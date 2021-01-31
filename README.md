@@ -67,3 +67,7 @@ We were highly moved, with the idea of introducing a platform where more of the 
 
 ## Team
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="800" height="250" >
+
+Figma link:-https://www.figma.com/proto/6Fec8YBPx34c0t8dIPS74G/hackviolet-group?node-id=51%3A22&viewport=1048%2C599%2C0.3566298186779022&scaling=min-zoom
+
+Youtube link:-https://www.youtube.com/watch?v=LDjDIcQSLfE&feature=youtu.be
