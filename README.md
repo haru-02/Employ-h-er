@@ -38,7 +38,8 @@ So we came up with the solution empowerher. The app starts with the log in page,
 Employ(H)er, not just an app telling you what, how & when to do things. Instead, choose what you want to do, use your education/ degree to become self reliant and independent. Serve the society. Give your contribution towards women empowerment.
 
 ## Built With
-Flutter using Dart Programming language, Figma for Mobile App design, Illustrator
+Flutter using Dart Programming language,Swift, Figma for Mobile App design, Illustrator
+
 <br> <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/sample2_hackviolet.png" width="300" height="300" >
 <img src= "https://github.com/haru-02/Employ-h-er/blob/main/images/sample_hackviolet.png" width="300" height="300" >
 
