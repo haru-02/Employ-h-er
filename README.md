@@ -10,7 +10,7 @@ For the Hack-Violet Hackathon -
 # What inspired us to do this project
 
 Amidst this terrific timespan, we tend to have seen every worst scenarios of life, we could have possibly ever imagined. In this outbreak of corona virus many such incidences have taken place where many people have lost their jobs, place, and the basic sources of sustainability.
-Which definitely, degraded the quality of their lives in every forms. I myself have witnessed this situation in my neighborhood. My neighbour was a single parent, after her marriage she had completely engrossed herself in the household so after when her husband died, she decided to independently raise her both the kids. For that she worked at various places to fulfill the pressing needs of her family and somehow managed. But after when this outbreak struck, She lost all of her jobs and the condition went too distressing everyday. After this scenario, I felt if something amidst this could help her. So We came up with a idea which shall eventually encourage and help women to work independently and help earn them a living and flourish in life on her own terms.
+Which definitely, degraded the quality of their lives in every forms. I myself have witnessed this situation in my neighborhood. My neighbour was a single parent, after her marriage she had completely engrossed herself in the household so after when her husband died, she decided to independently raise her both the kids. For that she worked at various places to fulfill the pressing needs of her family and somehow managed. But after when this outbreak struck, She lost all of her jobs and the condition went too distressing everyday. After this scenario, I felt if something amidst this could help her. So We came up with a idea which shall eventually encourage and help women to work independently and help earn them a living and flourish in life on her own terms. 
 ## The Problem
 'Research shows that even Women when employed, show progress in career that is extremely slow, and at most times, at a state of permanent stasis.’
 
@@ -25,21 +25,22 @@ Which definitely, degraded the quality of their lives in every forms. I myself h
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(43).png" width="200" height="400" >
 # What it does?
 
-Here, We give a platform to the womens who have a fundamental knowledge in their respective domains and it's utilisation. For the users, who have degrees strolling with dust into their cupboards with none recognition of their skills, we here, have got you covered where your skills comes into play with the right value of it which follows. Where the general statics, shows that the women are tend to be paid less irrespective of the same hardwork and expertise. Here we help you freelance and let you demand the right value for your work without of much hassle. We here, would be providing workshops for users, who have zero idea about the career opportunities which they otherwise could have explored, empowering them to become independent and to proceed in accordance to their own terms.
+Here, We give a platform for women who have a fundamental knowledge in their respective domains and it's utilisation. For the users, who have degrees strolling with dust into their cupboards with none recognition of their skills, we here, have got you covered where your skills comes into play with the right value of it which follows. Where the general statics, shows that the women are tend to be paid less irrespective of the same hardwork and expertise. Here we help you freelance and let you demand the right value for your work without of much hassle. We here, would be providing workshops for users, who have zero idea about the career opportunities which they otherwise could have explored, empowering them to become independent and to proceed in accordance to their own terms. This way, we indirectly support them by providing an opportunity to work in a fair environment.
 
 # App Features
-So we came up with the solution empowerher. The app starts with the log in page,moving on, we can see that there is a number of features, the prominent one being services. An employer searches for a potential employee here, who are sorted on the basis of different professions and are ranked by previous employers. If the profile suits the employer, he will contact her for work. We also provide career counselling and workshops for women to increase geir networking and knowledge to improve their career.
+So we came up with the solution empowerher. The app starts with the log in page,moving on, we can see that there is a number of features, the prominent one being services. An employer searches for a potential employee here, who are sorted on the basis of different professions and are ranked by previous employers. If the profile suits the employer, he will contact her for work. Sometimes, self care is not just a vacation in a tropical island, but also working on oneself and breaking their limits, that's why We also provide career counselling and workshops for women to increase geir networking and knowledge to improve their career.
 
 ## Description:
  <br> Technology Stack: 
  <br> Flutter using Dart Programming language, Figma for Mobile App design, Illustrator
+ <br> future scope : addition of firebase.
  
  ## Elevator Pitch
 Employ(H)er, not just an app telling you what, how & when to do things. Instead, choose what you want to do, use your education/ degree to become self reliant and independent. Serve the society. Give your contribution towards women empowerment.
 
 ## Built With
 Flutter using Dart Programming language,Swift, Figma for Mobile App design, Illustrator
-
+future scope : adding firebase, state management.
 <br> <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/sample2_hackviolet.png" width="300" height="300" >
 <img src= "https://github.com/haru-02/Employ-h-er/blob/main/images/sample_hackviolet.png" width="300" height="300" >
 
