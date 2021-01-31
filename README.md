@@ -50,5 +50,13 @@ Since it was the very first time for us, participating in hackathon, We didn't h
 
 We were highly moved, with the idea of introducing a platform where more of the focus was clearly over the skills and experiences and not based on gender roles. Where it encourages you to come up with your ideas and freelance with the users and get the correct value for your work straightaway from the user without any mediator involved. With that we ask the user to pay a reasonable amount of $20 every month, in return they can earn as much as they can based on their own potential, after using a trial version of the app which shall help them incorporate accordingly to the features and also help them get absorbed to it's usability.
 
+## Future Prespects
+
+1.Global Expansion.
+<br>2.Feature Enhancements.
+<br>3.Future prospects
+<br>4.Therapy sessions from professional therapists.
+<br>5.Adding free courses and resources available on internet.
+
 ## Team
 <img src="https://github.com/haru-02/Employ-h-er/blob/main/images/Screenshot%20(40).png" width="800" height="250" >
